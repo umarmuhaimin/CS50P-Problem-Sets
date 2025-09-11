@@ -18,3 +18,12 @@ def dollars_to_float(d):
 
 def percent_to_float(p):
     return float((p).replace("%", "")) / 100
+
+
+main()
+
+# Any task / case that requires a removal / replacement of something with another thing ; you need to use .replace() method.
+# Since they want us to remove / replace the $ and % ;  we can use .replace() method. They mention to us to replace the $ / % with nothing, so you can replace it with nothing symbol "".
+
+### Recall that input returns a str ###
+### Recall that float can convert a str to a float ###
