@@ -12,4 +12,4 @@ def main():
 main()
 
 # We are basically replacing the user's input response which will be in the type of emoticon into emoji's.
-# That is why the line of code : print(convert(user's_input)) 
+# That is why the line of code : print(convert(user's_input)) is needed.
